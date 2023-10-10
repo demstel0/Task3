@@ -1,0 +1,5 @@
+C:\Users\demst\source\repos\AppVacation\AppVacation.exe
+C:\Users\demst\source\repos\AppVacation\AppVacation.dll
+C:\Users\demst\source\repos\AppVacation\AppVacation.deps.json
+C:\Users\demst\source\repos\AppVacation\AppVacation.runtimeconfig.json
+C:\Users\demst\source\repos\AppVacation\AppVacation.pdb

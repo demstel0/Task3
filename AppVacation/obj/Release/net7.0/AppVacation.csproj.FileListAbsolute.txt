@@ -1,0 +1,14 @@
+C:\Users\demst\source\repos\AppVacation\AppVacation\bin\Release\net7.0\AppVacation.exe
+C:\Users\demst\source\repos\AppVacation\AppVacation\bin\Release\net7.0\AppVacation.deps.json
+C:\Users\demst\source\repos\AppVacation\AppVacation\bin\Release\net7.0\AppVacation.runtimeconfig.json
+C:\Users\demst\source\repos\AppVacation\AppVacation\bin\Release\net7.0\AppVacation.dll
+C:\Users\demst\source\repos\AppVacation\AppVacation\bin\Release\net7.0\AppVacation.pdb
+C:\Users\demst\source\repos\AppVacation\AppVacation\obj\Release\net7.0\AppVacation.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\demst\source\repos\AppVacation\AppVacation\obj\Release\net7.0\AppVacation.AssemblyInfoInputs.cache
+C:\Users\demst\source\repos\AppVacation\AppVacation\obj\Release\net7.0\AppVacation.AssemblyInfo.cs
+C:\Users\demst\source\repos\AppVacation\AppVacation\obj\Release\net7.0\AppVacation.csproj.CoreCompileInputs.cache
+C:\Users\demst\source\repos\AppVacation\AppVacation\obj\Release\net7.0\AppVacation.dll
+C:\Users\demst\source\repos\AppVacation\AppVacation\obj\Release\net7.0\refint\AppVacation.dll
+C:\Users\demst\source\repos\AppVacation\AppVacation\obj\Release\net7.0\AppVacation.pdb
+C:\Users\demst\source\repos\AppVacation\AppVacation\obj\Release\net7.0\AppVacation.genruntimeconfig.cache
+C:\Users\demst\source\repos\AppVacation\AppVacation\obj\Release\net7.0\ref\AppVacation.dll
